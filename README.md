@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/xDP4Fnv/mesmerizing-night-sky-filled-with-stars.jpg)](https://zyrab.github.io/Chalenges)
 <h1 align="center">Hi 👋, I'm Zyrab Kruashvili</h1>
 <h3 align="center">A passionate self-taught web developer from Tbilisi, Georgia.</h3>
-<img align="right" alt="codding" style: border-radius="50%"; width="350px" src="https://cdn.leonardo.ai/users/e24a2944-5dde-4fde-a8a2-47d6ca85d5cd/generations/fc6f74de-51aa-4110-8aad-ab6b56e81b39/Absolute_Reality_v16_n_this_captivating_cartoonish_illustratio_5.jpg">
+<img align="right" alt="codding"  width="350px" src="https://cdn.leonardo.ai/users/e24a2944-5dde-4fde-a8a2-47d6ca85d5cd/generations/d93a5238-27c9-41c7-b57f-71c3b738e290/variations/Default_n_this_captivating_cartoonish_illustration_the_figure_2_d93a5238-27c9-41c7-b57f-71c3b738e290_0.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyrab&label=Profile%20views&color=0e75b6&style=flat" alt="zyrab" /> </p>
 
 
