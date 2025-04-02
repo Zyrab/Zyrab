@@ -1,12 +1,7 @@
 [![MasterHead](https://i.ibb.co/xDP4Fnv/mesmerizing-night-sky-filled-with-stars.jpg)](https://zyrab.github.io/Chalenges)
-<h1 align="center">Hi 👋, I'm Zyrab Kruashvili</h1>
-<h3 align="center">A passionate self-taught web developer from Tbilisi, Georgia.</h3>
+<h1 align="center">Hi, I'm Zyrab </h1>
 <img align="right" alt="codding" width="350px" src="https://cdn.leonardo.ai/users/e24a2944-5dde-4fde-a8a2-47d6ca85d5cd/generations/d93a5238-27c9-41c7-b57f-71c3b738e290/variations/Default_n_this_captivating_cartoonish_illustration_the_figure_2_d93a5238-27c9-41c7-b57f-71c3b738e290_0.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyrab&label=Profile%20views&color=0e75b6&style=flat" alt="zyrab" /> </p>
-
-- 🌱 I’m currently learning **Angular**
-- 👨‍💻 All of my projects are available at [https://zyrab.github.io/Chalenges](https://zyrab.github.io/Chalenges)
-- 📫 Reach me at **zurakrua@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
