@@ -1,10 +1,28 @@
-[![MasterHead](https://i.ibb.co/xDP4Fnv/mesmerizing-night-sky-filled-with-stars.jpg)](https://zyrab.github.io/Chalenges)
-<h1 align="center">Hi, I'm Zyrab </h1>
-<img align="right" alt="codding" width="350px" src="https://cdn.leonardo.ai/users/e24a2944-5dde-4fde-a8a2-47d6ca85d5cd/generations/d93a5238-27c9-41c7-b57f-71c3b738e290/variations/Default_n_this_captivating_cartoonish_illustration_the_figure_2_d93a5238-27c9-41c7-b57f-71c3b738e290_0.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zyrab&label=Profile%20views&color=0e75b6&style=flat" alt="zyrab" /> </p>
+### Zyrab | dev, builder, curious soul
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrab&show_icons=true&locale=en&layout=compact&theme=dark" alt="zyrab" /></p>
+i make things.  
+sometimes tools. sometimes games. sometimes mistakes that teach me more than books ever did.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyrab&show_icons=true&locale=en&theme=dark" alt="zyrab" /></p>
+no bootcamps. no certificates. just a lot of code, a lot of failing better every time.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyrab&theme=dark" alt="zyrab" /></p>
+---
+
+**🧠 projects?**  
+i build engines, editors, and apps for humans—especially small ones learning big things.  
+see: 
+- [My Website](https://www.zyrab.dev)
+- [Blogs](https://www.zyrab.dev/blog)
+- [Unusual Bugs](https://www.zyrab.dev/bugs)
+- [All my projects](https://www.zyrab.dev/projects)
+- [SVecter](https://github.com/Zyrab/SVecter)
+
+**🌍 open to:**  
+remote gigs, cool collabs, and coffee-fueled problem solving.
+
+**💬 talk to me if:**  
+you like clean architecture, canvas hacks, gamedev, or just figuring stuff out loud.
+
+---
+
+> “Write code like a poet, debug like a detective.”
+
