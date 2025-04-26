@@ -12,9 +12,10 @@ i build engines, editors, and apps for humans—especially small ones learning b
 see: 
 - [My Website](https://www.zyrab.dev)
 - [Blogs](https://www.zyrab.dev/blog)
-- [Unusual Bugs](https://www.zyrab.dev/bugs)
-- [All my projects](https://www.zyrab.dev/projects)
+- [Notes & Bugs](https://www.zyrab.dev/bugs)
 - [SVecter](https://github.com/Zyrab/SVecter)
+- [Parsect](https://github.com/Zyrab/parsect)
+- [All my projects](https://www.zyrab.dev/projects)
 
 **🌍 open to:**  
 remote gigs, cool collabs, and coffee-fueled problem solving.
