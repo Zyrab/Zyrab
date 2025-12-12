@@ -1,27 +1,31 @@
 ### Zyrab | dev, builder, curious soul
 
-i make things.  
-sometimes tools. sometimes games. sometimes mistakes that teach me more than books ever did.
+I make things.  
+Tools, apps, games, experiments. whatever teaches me something new.
 
 no bootcamps. no certificates. just a lot of code, a lot of failing better every time.
 
 ---
 
-**🧠 projects?**  
-i build engines, editors, and apps for humans—especially small ones learning big things.  
+**Projects?**  
+I work across mobile, web, canvas, and UI libraries.
 see: 
 - [My Website](https://www.zyrab.dev)
+- [Numbero](https://play.google.com/store/apps/details?id=com.anonymous.Numbero10&hl=en): Published mobile game (React Native)
+- Ani Bani: Educational app for kids (React Native)
+- [Domo](https://github.com/Zyrab/Domo): Micro web Framework/Library, for me
+- [Parsect](https://github.com/Zyrab/parsect): SVG → Canvas Path2D converter
 - [Blogs](https://www.zyrab.dev/blog)
 - [Notes & Bugs](https://www.zyrab.dev/bugs)
-- [SVecter](https://github.com/Zyrab/SVecter)
-- [Parsect](https://github.com/Zyrab/parsect)
 - [All my projects](https://www.zyrab.dev/projects)
 
-**🌍 open to:**  
-remote gigs, cool collabs, and coffee-fueled problem solving.
+**Open to:**  
+- Remote roles
+- Small product teams
+- Interesting problems
 
-**💬 talk to me if:**  
-you like clean architecture, canvas hacks, gamedev, or just figuring stuff out loud.
+**Talk to me if:**  
+you enjoy clean architecture, canvas work, gamedev, or building from scratch.
 
 ---
 
